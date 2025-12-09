@@ -1,6 +1,6 @@
 # Low-Cost-3D-Printed-Prosthetic-Arm
 <br>
-# Abstract
+### **Abstract**
 <br>
 The high cost and limited accessibility of traditional prosthetic arms create a significant barrier
 for many individuals in need of functional limb replacements. This project presents the design
